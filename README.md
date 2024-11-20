@@ -35,5 +35,4 @@ __Тема 4. Нелинейные алгоритмы. Ансамблевые м
 __Тема 5.  Автоматическое построение ML-моделей с помощью LightAutoML.__
 
 Обзор фреймворка и преимуществ его использования. Применение LightAutoML на практических задачах.
-
-__[github LAMA](https://github.com/sberbank-ai-lab/LightAutoML)__
+[github LAMA](https://github.com/sberbank-ai-lab/LightAutoML)
